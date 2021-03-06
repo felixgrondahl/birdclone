@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'CWEB';
+    src: url("./assets/fonts/CWEBL.TTF");
+}
+#useFont {
+    font-family: 'CWEB';
+    font-size: 0pt;
+}
+
+body {
+    background-color: #18171c;
+}
+
+canvas {
+    margin: auto;
+    padding: 0pt;
+    display: block;
+}

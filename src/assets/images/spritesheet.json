@@ -1,0 +1,79 @@
+{"frames": {
+
+"frame-1.png":
+{
+	"frame": {"x":0,"y":0,"w":464,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":464,"h":317},
+	"sourceSize": {"w":464,"h":317}
+},
+"frame-2.png":
+{
+	"frame": {"x":464,"y":0,"w":464,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":464,"h":317},
+	"sourceSize": {"w":464,"h":317}
+},
+"frame-3.png":
+{
+	"frame": {"x":928,"y":0,"w":464,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":464,"h":317},
+	"sourceSize": {"w":464,"h":317}
+},
+"frame-4.png":
+{
+	"frame": {"x":1392,"y":0,"w":464,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":464,"h":317},
+	"sourceSize": {"w":464,"h":317}
+},
+"frame-5.png":
+{
+	"frame": {"x":0,"y":317,"w":464,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":464,"h":317},
+	"sourceSize": {"w":464,"h":317}
+},
+"frame-6.png":
+{
+	"frame": {"x":464,"y":317,"w":464,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":464,"h":317},
+	"sourceSize": {"w":464,"h":317}
+},
+"frame-7.png":
+{
+	"frame": {"x":928,"y":317,"w":464,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":464,"h":317},
+	"sourceSize": {"w":464,"h":317}
+},
+"frame-8.png":
+{
+	"frame": {"x":1392,"y":317,"w":464,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":464,"h":317},
+	"sourceSize": {"w":464,"h":317}
+}},
+"animations": {
+	"idle": ["frame-1.png","frame-2.png","frame-3.png","frame-4.png","frame-5.png","frame-6.png","frame-7.png","frame-8.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spritesheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1856,"h":634},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:adc7920bf0c2098ed43ecdea9e1495a9:c444425ac6a841e7a46282985db86436:729adc6043343cfda41c447ce8f464d6$"
+}
+}
